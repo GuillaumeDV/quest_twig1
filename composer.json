@@ -1,0 +1,12 @@
+{
+    "name": "wilder/twig1",
+    "authors": [
+        {
+            "name": "Guillaume",
+            "email": "gdv.delvecchio75@gmail.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "^3.0"
+    }
+}
